@@ -1,14 +1,10 @@
-import java.io.*;
-import java.util.*;
-
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         boolean[] visited = new boolean[rooms.size()];
-            
-        bfs(rooms, visited, 0);
+        dfs(rooms, visited, 0);
 
         for(boolean r : visited){
-            if(r == false){
+            if(!r){
                 return false;
             }
         }
@@ -16,21 +12,16 @@ class Solution {
         return true;
     }
 
-    public void bfs(List<List<Integer>> rooms, boolean[] visited, int start){
-        LinkedList<Integer> queue = new LinkedList<>();
+    public void dfs(List<List<Integer>> rooms, boolean[] visited, int start){
 
-        queue.offer(start);
         visited[start] = true;
         
-        while(!queue.isEmpty()){      
-            int cur = queue.poll();
-            
-            for(int i=0; i<rooms.get(cur).size(); i++){
-                int next = rooms.get(cur).get(i);
-                if(!visited[next]){
-                    visited[next] = true;
-                    queue.offer(next);
-                }
+        for(int i=0; i<rooms.get(start).size(); i++){
+            int next = rooms.get(start).get(i);
+
+            if(!visited[next]){
+                visited[next] = true;
+                dfs(rooms, visited, next);
             }
         }
     }
