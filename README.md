@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/num22yh/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/num22yh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
