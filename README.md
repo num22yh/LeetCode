@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/num22yh/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/num22yh/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/num22yh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/num22yh/LeetCode/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -51,8 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/num22yh/LeetCode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/num22yh/LeetCode/tree/main/0078-subsets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
