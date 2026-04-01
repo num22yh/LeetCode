@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/num22yh/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/num22yh/LeetCode/tree/master/0200-number-of-islands) |
+| [0704-binary-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/num22yh/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/num22yh/LeetCode/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
