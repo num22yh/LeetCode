@@ -19,12 +19,7 @@ class Solution {
             return;
         }
         
-        int next;
-        if(cur + 1 < elements.length){
-             next = cur + 1;
-        }else{
-            next = 0;
-        }
+        int next = (cur+1)%elements.length;
         
         sum = sum + elements[next];
         sumSet.add(sum);
